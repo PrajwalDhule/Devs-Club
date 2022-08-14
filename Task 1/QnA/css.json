@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How to properly select a paragraph tag which is inside a div with class='container'?",
+    "answer": [".container p"],
+    "options": {
+      "a": ".container p",
+      "b": "div>p",
+      "c": "div#container p",
+      "d": "p.container"
+    }
+  },
+  {
+    "question": "What are terms for 'space between an element and its content' and 'space around an element'?",
+    "answer": ["padding and margin"],
+    "options": {
+      "a": "whitespace and padding",
+      "b": "padding and margin",
+      "c": "box-sizing and whitespace",
+      "d": "inset and margin"
+    }
+  },
+  {
+    "question": "Which of the following are valid transform functions?",
+    "answer": ["translate", "skew", "rotateX"],
+    "options": { "a": "translate", "b": "rotateX", "c": "shift", "d": "skew" }
+  },
+  {
+    "question": "Which does CSS stand for?",
+    "answer": ["Cascading Style Sheets"],
+    "options": {
+      "a": "Cascading Style Sheets",
+      "b": "Coloured Style Sheets",
+      "c": "Color and Style Sheets",
+      "d": "none of the above"
+    }
+  },
+  {
+    "question": "linear-gradient can be applied to which css property?",
+    "answer": ["background-image"],
+    "options": {
+      "a": "background",
+      "b": "background-image",
+      "c": "background-color",
+      "d": "background-repeat"
+    }
+  }
+]

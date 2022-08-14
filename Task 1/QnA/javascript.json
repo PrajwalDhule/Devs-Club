@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following methods CANNOT be used to access HTML elements using Javascript?",
+    "answer": ["None of the above"],
+    "options": {
+      "a": "The getElementById()",
+      "b": "getElementsByTagName()",
+      "c": "getElementsByClassName()",
+      "d": "None of the above"
+    }
+  },
+  {
+    "question": "What will be the output of 4 + '9'?",
+    "answer": ["49 (String)"],
+    "options": {
+      "a": "13 (Number)",
+      "b": "13 (String)",
+      "c": "49 (Number)",
+      "d": "49 (String)"
+    }
+  },
+  {
+    "question": "How can one access the value of a key named 'subject' of an object named 'obj'?",
+    "answer": ["obj.subject", "obj['subject']"],
+    "options": {
+      "a": "obj.subject",
+      "b": "obj->subject",
+      "c": "obj['subject']",
+      "d": "None of the above"
+    }
+  },
+  {
+    "question": "Which of the following Math methods cannot round up/down a decimal number to an integer?",
+    "answer": ["pow()"],
+    "options": {
+      "a": "floor()",
+      "b": "pow()",
+      "c": "ceil()",
+      "d": "trunc()"
+    }
+  },
+  {
+    "question": "What can be done if an object 'obj' can be null/undefined and we need to access the property 'address' of 'obj?",
+    "answer": ["obj?.address"],
+    "options": {
+      "a": "obj?.address",
+      "b": "[!obj].address",
+      "c": "obj.exists().address",
+      "d": "None of the above"
+    }
+  }
+]

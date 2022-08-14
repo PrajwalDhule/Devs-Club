@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many sizes of headers are available in HTML by default?",
+    "answer": ["6"],
+    "options": {
+      "a": "1",
+      "b": "6",
+      "c": "4",
+      "d": "5"
+    }
+  },
+  {
+    "question": "Which of the following tags require a corresponding closing tag?",
+    "answer": ["<a>"],
+    "options": {
+      "a": "<br>",
+      "b": "<hr>",
+      "c": "<a>",
+      "d": "<img>"
+    }
+  },
+  {
+    "question": "The CSS inside HTML elements used alongside style attribute is called?",
+    "answer": ["Inline CSS"],
+    "options": {
+      "a": "Internal CSS",
+      "b": "Inline CSS",
+      "c": "External CSS",
+      "d": "None of the above"
+    }
+  },
+  {
+    "question": "Which of the following is the correct way to insert an image from a file named 'picture.png'?",
+    "answer": ["<img src='picture.png' />"],
+    "options": {
+      "a": "<img url='picture.png' />",
+      "b": "<img link='picture.png' />",
+      "c": "<img src='picture.png' />",
+      "d": "<img alt='picture.png' />"
+    }
+  },
+  {
+    "question": "Which tag can be used to add links to anything?",
+    "answer": ["<a>"],
+    "options": {
+      "a": "<a>",
+      "b": "<input>",
+      "c": "<article>",
+      "d": "None of the above"
+    }
+  }
+]
